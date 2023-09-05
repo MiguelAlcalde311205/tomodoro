@@ -1481,7 +1481,7 @@ function loop() {
 	ctx.fillRect(0, 0, 400, 400);
 
 	ctx.fillStyle = accents[theme][themeAccent]["--color"];
-	ctx.font = "80px monospace";
+	ctx.font = "80px sans-serif";
 	ctx.textAlign = "center";
 	let seconds = config[roundInfo.current] - roundInfo.t;
 	if (seconds < 0) {
