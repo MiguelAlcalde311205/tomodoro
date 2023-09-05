@@ -27,7 +27,8 @@ body {
 	display: flex;
 	align-items: center;
 	justify-content: center;
-	background-color: var(--bgcolor);
+	/*background-color: var(--bgcolor);*/
+    background-color: #191919;
 	color: var(--color);
 	font-family: "Consolas", monospace;
 }
@@ -40,7 +41,7 @@ body {
 	align-items: center;
 	justify-content: center;
 	/*background-color: var(--bgcolor);*/
-    background-color: #191919
+    background-color: #191919;
 }
 
 #popupbtn {
