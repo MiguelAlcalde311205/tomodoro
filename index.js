@@ -1153,7 +1153,7 @@ const accents = {
 			"--bgcolor": "#191919",
 			"--bgcolor2": "#333340",
 			"--color": "#eeeeff",
-			"--coloraccent": "#b2b2ff",
+			"--coloraccent": "#eeeeff",
 		},
 		green: {
 			"--bgcolor": "#1d201d",
