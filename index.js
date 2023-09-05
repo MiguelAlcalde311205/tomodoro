@@ -1150,7 +1150,7 @@ const accents = {
 			"--coloraccent": "#9bb2ff",
 		},
 		lavender: {
-			"--bgcolor": "#222230",
+			"--bgcolor": "#191919",
 			"--bgcolor2": "#333340",
 			"--color": "#eeeeff",
 			"--coloraccent": "#b2b2ff",
