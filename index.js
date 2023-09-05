@@ -1135,7 +1135,7 @@ const accents = {
 			"--bgcolor": "#191919",
 			"--bgcolor2": "#403333",
 			"--color": "#ffeeee",
-			"--coloraccent": "#ffaaaa",
+			"--coloraccent": "#000000",
 		},
 		violet: {
 			"--bgcolor": "#252225",
