@@ -1499,7 +1499,7 @@ function loop() {
 	ctx.font = "32px monospace";
 	ctx.fillText(fullname[roundInfo.current].toUpperCase(), 200, 260, 280);
 
-	ctx.strokeStyle = accents[theme][themeAccent]["--coloraccent"];
+	ctx.strokeStyle = accents[theme][themeAccent]["#8d5bc1"];
 	ctx.lineWidth = 4;
 	ctx.beginPath();
 	ctx.arc(200, 200, 180, 0, Math.PI * 2);
