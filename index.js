@@ -1094,7 +1094,7 @@ const themes = {
 	dark: {
 		props: {
 			"color-scheme": "dark",
-			"--focus": "#d64f4f",
+			"--focus": "#8d5bc1",
 			"--short": "#26baba",
 			"--long": "#5fbbe6",
 		},
