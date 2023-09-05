@@ -1132,7 +1132,7 @@ const themes = {
 const accents = {
 	dark: {
 		red: {
-			"--bgcolor": "#252222",
+			"--bgcolor": "#191919",
 			"--bgcolor2": "#403333",
 			"--color": "#ffeeee",
 			"--coloraccent": "#ffaaaa",
